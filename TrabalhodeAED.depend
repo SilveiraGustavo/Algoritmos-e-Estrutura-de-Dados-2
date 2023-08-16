@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1648599857 source:c:\users\andre\desktop\trabalhodeaed\trabalhodeaed\main.cpp
+	<iostream>
+	"biblioPonte.h"
+	<locale>
+
+1648598247 c:\users\andre\desktop\trabalhodeaed\trabalhodeaed\biblioponte.h
+	"global.h"
+
+1648595661 c:\users\andre\desktop\trabalhodeaed\trabalhodeaed\global.h
+	"biblioPonte.h"
+	<iostream>
+
+1648599857 source:c:\users\andre\desktop\trabalhodeaed\trabalhodeaed\implementações.cpp
+	"biblioPonte.h"
+	<iostream>
+
+1648610523 source:c:\users\andre\videos\trabalhodeaed\trabalhodeaed\main.cpp
+	<iostream>
+	"biblioPonte.h"
+
+1648613039 c:\users\andre\videos\trabalhodeaed\trabalhodeaed\biblioponte.h
+	"global.h"
+
+1648609683 c:\users\andre\videos\trabalhodeaed\trabalhodeaed\global.h
+	"biblioPonte.h"
+	<iostream>
+	<locale>
+
+1648608210 source:c:\users\andre\videos\trabalhodeaed\trabalhodeaed\impfila.cpp
+	"biblioPonte.h"
+	<iostream>
+
+1648613230 source:c:\users\andre\videos\trabalhodeaed\trabalhodeaed\implementaçõesgerais.cpp
+	"biblioPonte.h"
+
+1648612863 source:c:\users\andre\videos\trabalhodeaed\trabalhodeaed\implista.cpp
+	"biblioPonte.h"
+	<iostream>
+
+1648615755 source:c:\users\andre\music\trabalhodeaedpronto\trabalhodeaed\trabalhodeaed\impfila.cpp
+	"biblioPonte.h"
+	<iostream>
+
+1648615755 c:\users\andre\music\trabalhodeaedpronto\trabalhodeaed\trabalhodeaed\biblioponte.h
+	"global.h"
+
+1648609683 c:\users\andre\music\trabalhodeaedpronto\trabalhodeaed\trabalhodeaed\global.h
+	"biblioPonte.h"
+	<iostream>
+	<locale>
+
+1648612863 source:c:\users\andre\music\trabalhodeaedpronto\trabalhodeaed\trabalhodeaed\implista.cpp
+	"biblioPonte.h"
+	<iostream>
+
+1648610523 source:c:\users\andre\music\trabalhodeaedpronto\trabalhodeaed\trabalhodeaed\main.cpp
+	<iostream>
+	"biblioPonte.h"
+
+1648615555 source:c:\users\andre\music\trabalhodeaedpronto\trabalhodeaed\trabalhodeaed\implementaçõesgerais.cpp
+	"biblioPonte.h"
+
+1648615755 source:c:\users\gugav\desktop\trabalho final\trabalhodeaed\impfila.cpp
+	"biblioPonte.h"
+	<iostream>
+
+1648615755 c:\users\gugav\desktop\trabalho final\trabalhodeaed\biblioponte.h
+	"global.h"
+
+1648609683 c:\users\gugav\desktop\trabalho final\trabalhodeaed\global.h
+	"biblioPonte.h"
+	<iostream>
+	<locale>
+
+1648644127 source:c:\users\gugav\desktop\trabalho final\trabalhodeaed\implementaçõesgerais.cpp
+	"biblioPonte.h"
+
+1648612863 source:c:\users\gugav\desktop\trabalho final\trabalhodeaed\implista.cpp
+	"biblioPonte.h"
+	<iostream>
+
+1648640102 source:c:\users\gugav\desktop\trabalho final\trabalhodeaed\main.cpp
+	<iostream>
+	"biblioPonte.h"
+
